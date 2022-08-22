@@ -39,5 +39,5 @@ DISPLAY_PAGES_ON_MENU = True
 # DISPLAY_CATEGORY_ON_MENU = True
 
 # PAGEORDERBY = 'date'
-THEME='/themes/Flex'
+THEME='theme/Flex'
 STATIC_PATHS = ['images']
