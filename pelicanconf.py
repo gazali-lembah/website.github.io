@@ -39,5 +39,5 @@ DISPLAY_PAGES_ON_MENU = True
 # DISPLAY_CATEGORY_ON_MENU = True
 
 # PAGEORDERBY = 'date'
-THEME='Flex'
-STATIC_PATHS = ['images']
+THEME="pelican-themes/Flex"
+# STATIC_PATHS = ['images']
